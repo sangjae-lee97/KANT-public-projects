@@ -11,6 +11,31 @@ KANT 과정에서 진행한 공개 자료를 **Study**와 **Projects**로 나누
 - Purpose: KANT AX Agent 과정에서 진행한 학습 및 실습 저장소
 - Notes: 실제 코드, 커밋, 과제 제출 및 학습 이력은 원본 저장소에서 관리합니다.
 
+### Claude Code Agent Course
+
+- Repository: https://github.com/sangjae-lee97/claude-code-agent-course
+- Visibility: Public
+
+### Data Analysis Course
+
+- Repository: https://github.com/sangjae-lee97/data-analysis-course
+- Visibility: Public
+
+### AL Quiz
+
+- Repository: https://github.com/sangjae-lee97/AL_quiz
+- Visibility: Public
+
+### LMS Assignments
+
+- Repository: https://github.com/sangjae-lee97/lms-assignments
+- Visibility: Public
+
+### AWS Study
+
+- Repository: https://github.com/sangjae-lee97/AWS-study
+- Visibility: Public
+
 ## Projects
 
 ### Cozy Code Cat
