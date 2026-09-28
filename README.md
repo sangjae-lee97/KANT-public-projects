@@ -13,7 +13,22 @@ KANT 과정에서 진행한 공개 자료를 **Study**와 **Projects**로 나누
 
 ## Projects
 
-현재 등록된 공개 프로젝트가 없습니다.
+### Cozy Code Cat
+
+- Frontend: https://github.com/sangjae-lee97/cozy-code-cat-frontend
+- Backend: https://github.com/sangjae-lee97/cozy-code-cat-backend
+- Visibility: Public
+- Notes: 프론트엔드와 백엔드를 각각 독립 저장소로 관리합니다.
+
+### KANT Project 1
+
+- Repository: https://github.com/sangjae-lee97/kant-project-1
+- Visibility: Public
+
+### AX Student Management System
+
+- Repository: https://github.com/sangjae-lee97/ax-student-management-system
+- Visibility: Public
 
 ## 운영 원칙
 
